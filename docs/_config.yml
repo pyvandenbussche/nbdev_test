@@ -64,3 +64,4 @@ plugins:
     
 remote_theme: fastai/nbdev-jekyll-theme
 baseurl: /my_lib/
+theme: jekyll-theme-cayman
