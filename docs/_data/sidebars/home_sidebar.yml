@@ -12,7 +12,10 @@ entries:
     - output: web,pdf
       title: My new module
       url: core.html
+    - output: web,pdf
+      title: Fine-tuning a model on a text classification task
+      url: text_classification.html
     output: web
-    title: my_lib
+    title: nbdev_test
   output: web
   title: Sidebar

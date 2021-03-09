@@ -1,6 +1,7 @@
 {
-  "my_lib": {
+  "nbdev_test": {
     "Overview": "/",
-    "My new module": "core.html"
+    "My new module": "core.html",
+    "Fine-tuning a model on a text classification task": "text_classification.html"
   }
 }
